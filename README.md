@@ -1,7 +1,4 @@
 - 👋 Hi, I’m chetan MK 
-- 👀 I’m interested in front-end developer  and web developer role
-- 🌱 I’m currently working 
-
 - 📫 Emial-id ...chetankuri6@gmail.com
 
 <!---
