@@ -1,4 +1,4 @@
-- 👋 Hi, I’m chetan MK 
+- 👋 Hi, I’m Chetan MK 
 - 📫 Emial-id ...chetankuri6@gmail.com
 
 <!---
